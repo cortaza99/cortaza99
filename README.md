@@ -60,11 +60,11 @@
                     <img src="https://github.com/cortaza99/cortaza99/blob/main/image/img_tiendaMascotas.png" width="400" alt="">
                 </a>
                 <p>
-                    <a href="" target="_blank">
+                    <a href="https://github.com/cortaza99/Tienda-de-Mascotas" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
                     </a>
-                    <a href="" target="_blank">
-                        <img src="https://img.shields.io/badge/-User Manual-green?style=for-the-badge&color=3fFD7f">
+                    <a href="https://github.com/cortaza99/Tienda-de-Mascotas/blob/master/MANUAL%20DE%20USUARIO.pdf" target="_blank">
+                        <img src="https://img.shields.io/badge/-User Manual-green?style=for-the-badge&color=3fFD7f" alt="Page">
                     </a>
                 </p>
                 <p>The pet store application is designed to manage the interaction between users and pets available for adoption, optimizing the user experience through various views and functionalities.</p>
