@@ -16,7 +16,6 @@
 ## About Me
 
 - ⭐ Software Developer ⭐ 
-- 💡 &nbsp;I enjoy exploring new technologies and developing software solutions.  
 - 🎓 &nbsp;Studying Systems Engineering.  
 - 💼 &nbsp;Available 100% for work.  
 - ✉️ &nbsp;Feel free to email me at juandavidcortazar@gmail.com!  
