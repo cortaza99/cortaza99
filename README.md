@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/juan-david-cortaza-pérez-b77074143/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="--" target="_blank">
+  <a href="https://drive.google.com/file/d/1wFVft-vCMPJPOqfJb1dSI9Y2B_JRW1Gj/view?usp=drive_link" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
@@ -19,7 +19,7 @@
 - 🎓 &nbsp;Studying Systems Engineering.  
 - 💼 &nbsp;Available 100% for work.  
 - ✉️ &nbsp;Feel free to email me at juandavidcortazar@gmail.com!  
-- 🌐 &nbsp;You can view my portfolio [here](-----)  
+- 🌐 &nbsp;You can view my CV [here](https://drive.google.com/file/d/1wFVft-vCMPJPOqfJb1dSI9Y2B_JRW1Gj/view?usp=drive_link)  
 <br>
 
 <h2 align="left">⚒⚙️ Languages, Frameworks, and Tools ⚙️</h2>
@@ -70,7 +70,6 @@
                 </p>
             </div>
         </td>
-       
     </tr>
 </table>
 
@@ -91,5 +90,5 @@
     📧 juandavidcortazar@gmail.com
   </a>
   <br>
-  <a href="https://www.your-page.com" target="_blank">Visit my page</a>
+<!--  <a href="https://www.your-page.com" target="_blank">Visit my page</a> -->
 </p>
