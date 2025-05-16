@@ -16,7 +16,7 @@
 ## About Me
 
 - ⭐ Software Developer ⭐ 
-- 🎓 &nbsp;Studying Systems Engineering.  
+- 🎓 &nbsp;Systems engineer.  
 - 💼 &nbsp;Available 100% for work.  
 - ✉️ &nbsp;Feel free to email me at juandavidcortazar@gmail.com!  
 - 🌐 &nbsp;You can view my CV [here](https://drive.google.com/file/d/1wFVft-vCMPJPOqfJb1dSI9Y2B_JRW1Gj/view?usp=drive_link)  
